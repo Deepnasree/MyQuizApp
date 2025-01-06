@@ -36,3 +36,6 @@ QuizApp is a ReactJS-based web application that allows users to take assessments
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/quizapp.git
+
+   <img width="799" alt="image" src="https://github.com/user-attachments/assets/11ec3bbc-a75c-4bf0-b85d-788303240741" />
+
